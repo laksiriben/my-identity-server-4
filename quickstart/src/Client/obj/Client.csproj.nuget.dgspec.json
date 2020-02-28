@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My\\Personal\\MyDev\\DotNet\\Core\\IdentityServer4\\my-identity-server-4\\quickstart\\src\\Api\\Api.csproj": {}
+    "C:\\My\\Personal\\MyDev\\DotNet\\Core\\IdentityServer4\\my-identity-server-4\\quickstart\\src\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\My\\Personal\\MyDev\\DotNet\\Core\\IdentityServer4\\my-identity-server-4\\quickstart\\src\\Api\\Api.csproj": {
+    "C:\\My\\Personal\\MyDev\\DotNet\\Core\\IdentityServer4\\my-identity-server-4\\quickstart\\src\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\Personal\\MyDev\\DotNet\\Core\\IdentityServer4\\my-identity-server-4\\quickstart\\src\\Api\\Api.csproj",
-        "projectName": "Api",
-        "projectPath": "C:\\My\\Personal\\MyDev\\DotNet\\Core\\IdentityServer4\\my-identity-server-4\\quickstart\\src\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\My\\Personal\\MyDev\\DotNet\\Core\\IdentityServer4\\my-identity-server-4\\quickstart\\src\\Client\\Client.csproj",
+        "projectName": "Client",
+        "projectPath": "C:\\My\\Personal\\MyDev\\DotNet\\Core\\IdentityServer4\\my-identity-server-4\\quickstart\\src\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\laksirif\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\Personal\\MyDev\\DotNet\\Core\\IdentityServer4\\my-identity-server-4\\quickstart\\src\\Api\\obj\\",
+        "outputPath": "C:\\My\\Personal\\MyDev\\DotNet\\Core\\IdentityServer4\\my-identity-server-4\\quickstart\\src\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -42,9 +42,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "IdentityModel": {
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[4.1.1, )"
             }
           },
           "imports": [
@@ -58,9 +58,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -1,0 +1,14 @@
+C:\My\Personal\MyDev\DotNet\Core\IdentityServer4\my-identity-server-4\quickstart\src\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\My\Personal\MyDev\DotNet\Core\IdentityServer4\my-identity-server-4\quickstart\src\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\My\Personal\MyDev\DotNet\Core\IdentityServer4\my-identity-server-4\quickstart\src\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\My\Personal\MyDev\DotNet\Core\IdentityServer4\my-identity-server-4\quickstart\src\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\My\Personal\MyDev\DotNet\Core\IdentityServer4\my-identity-server-4\quickstart\src\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\My\Personal\MyDev\DotNet\Core\IdentityServer4\my-identity-server-4\quickstart\src\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\My\Personal\MyDev\DotNet\Core\IdentityServer4\my-identity-server-4\quickstart\src\Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\My\Personal\MyDev\DotNet\Core\IdentityServer4\my-identity-server-4\quickstart\src\Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\My\Personal\MyDev\DotNet\Core\IdentityServer4\my-identity-server-4\quickstart\src\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+C:\My\Personal\MyDev\DotNet\Core\IdentityServer4\my-identity-server-4\quickstart\src\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\My\Personal\MyDev\DotNet\Core\IdentityServer4\my-identity-server-4\quickstart\src\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\My\Personal\MyDev\DotNet\Core\IdentityServer4\my-identity-server-4\quickstart\src\Client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
+C:\My\Personal\MyDev\DotNet\Core\IdentityServer4\my-identity-server-4\quickstart\src\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\My\Personal\MyDev\DotNet\Core\IdentityServer4\my-identity-server-4\quickstart\src\Client\obj\Debug\netcoreapp3.1\Client.pdb

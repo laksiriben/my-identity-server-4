@@ -13,4 +13,4 @@ git push -u origin master
 ###### Current Posission
 http://docs.identityserver.io/en/latest/quickstarts/1_client_credentials.html
 
-Creating the client - to do
+Completed above. Do Further experiments or go to Next
